@@ -28,4 +28,8 @@ h2{
 	text-transform: uppercase;
 }
 
+.btn:hover {
+	background-color: #4CC4A7;
+}
+
 
